@@ -29,6 +29,7 @@ Compilación
 Desde la raíz del proyecto:
 mvn clean compile
 
+
 Las clases compiladas se generan en target/classes.
 Ejecución
 Ejecución independiente
@@ -46,6 +47,7 @@ java -cp target/classes org.example.ContadorPalabras < entrada.txt
 
 Ejecución encadenada con tuberías
 java -cp target/classes org.example.LectorTexto | java -cp target/classes org.example.FiltraLineas | java -cp target/classes org.example.ContadorPalabras
+
 
 
 Flujo de datos:
@@ -68,6 +70,7 @@ Número total de palabras: 18
 Generación de documentación
 La documentación Javadoc se puede generar con:
 mvn javadoc:javadoc
+
 
 El resultado se guarda en:
 target/site/apidocs/index.html
