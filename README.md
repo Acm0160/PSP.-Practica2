@@ -10,20 +10,6 @@ Documentación del código mediante comentarios y Javadoc.
 Uso del operador de tubería para enlazar aplicaciones.
 Elaboración de un manual de uso con pruebas y ejemplos.
 
-Estructura del proyecto
-Practica2/
- ├── pom.xml
- ├── entrada.txt
- ├── README.md
- └── src/
-     └── main/
-         └── java/
-             └── org/
-                 └── example/
-                     ├── LectorTexto.java
-                     ├── FiltraLineas.java
-                     └── ContadorPalabras.java
-
 Requisitos
 
 Java 24 o superior
