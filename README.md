@@ -10,11 +10,6 @@ Documentación del código mediante comentarios y Javadoc.
 Uso del operador de tubería para enlazar aplicaciones.
 Elaboración de un manual de uso con pruebas y ejemplos.
 
-Requisitos
-
-Java 24 o superior
-Maven 3.9 o superior
-IDE recomendado: IntelliJ IDEA (también válido NetBeans o Eclipse)
 
 Descripción de las aplicaciones
 1. LectorTexto
