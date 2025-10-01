@@ -57,12 +57,3 @@ Esta no.
 Esta frase deberia aparecer porque tiene muchos caracteres.
 Esta frase tambien tiene muchos caracteres.
 Número total de palabras: 14
-
-
-**Generación de documentación
-La documentación Javadoc se puede generar con:**
-mvn javadoc:javadoc
-
-
-**El resultado se guarda en:**
-target/site/apidocs/index.html
